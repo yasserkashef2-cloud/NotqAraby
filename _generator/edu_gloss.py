@@ -1,0 +1,93 @@
+# -*- coding: utf-8 -*-
+"""EDUCATIONAL ADDITION — glosses for words of the longer texts, written for this book (not part of the course file).
+Only words whose sense in context is clear are glossed; poetry and colloquial words may have other readings.
+Format: item -> list of (word as it appears (diacritics ignored), English gloss, note)"""
+
+GLOSSARY = {
+ '1.7': [
+  ('نهي', 'prohibition, restraint (nahy)', ''),
+  ('شيمتك', 'your nature, your habitual character', ''),
+  ('لوعة', 'burning pain of love, anguish', ''),
+  ('أذللت', 'I humbled, I subdued', ''),
+  ('خلائقه', 'its natural traits (pl. of khalīqa)', ''),
+  ('أضواني', 'wore me down, made me frail', 'one commentary reading; verify in a printed edition'),
+  ('جوانحي', 'my ribs; my inner self', ''),
+  ('أذكتها', 'kindled it (fire)', ''),
+  ('الصبابة', 'ardent longing', ''),
+  ('ظمآنا', 'thirsty', ''),
+  ('القطر', 'rain', ''),
+  ('معللتي', 'she who keeps me hopeful with promises', 'approximate'),
+ ],
+ '2.2': [
+  ('مخبر', 'one who informs, who brings the news', ''),
+  ('الحيين', 'the two clans / tribes', ''),
+  ('أضحى', 'became', ''),
+  ('قتيلا', 'slain', ''),
+  ('الفلاة', 'the open desert, wilderness', ''),
+  ('مجندلا', 'laid out on the ground (dead)', ''),
+  ('لله دركما', 'an exclamation of admiration addressed to the two men (lit. "to God belongs your achievement")', 'approximate'),
+  ('يبرح', 'leaves, ceases', ''),
+  ('العبدان', 'the two servants (lit. slaves)', ''),
+ ],
+ '5.1': [
+  ('ألوم', 'I blame', ''),
+  ('محال', 'impossible; absurd', ''),
+  ('بليغ', 'eloquent', ''),
+  ('الجمال', 'beauty', ''),
+  ('خيال', 'imagination; illusion', ''),
+  ('بدائه', 'in his illness (bi + dāʾihi)', 'the twister plays on ألم read as "pain" / "befell"'),
+  ('علاجه', 'his treatment, his cure', ''),
+ ],
+ '5.2': [
+  ('العمى', 'blindness', ''),
+  ('أدبي', 'my literature, my culture and refinement', ''),
+  ('أسمعت', 'made hear', ''),
+  ('صمم', 'deafness', ''),
+  ('شواردها', 'its stray, far-wandering (verses)', ''),
+  ('يسهر', 'stays awake', ''),
+  ('جراها', 'because of them', ''),
+  ('يختصم', 'quarrels, disputes', ''),
+  ('الخيل', 'the horses', ''),
+  ('البيداء', 'the desert', ''),
+  ('الرمح', 'the spear', ''),
+  ('القرطاس', 'paper', ''),
+  ('القلم', 'the pen', ''),
+ ],
+ '6.1': [
+  ('الرشوة', 'bribery', ''),
+  ('الفساد', 'corruption', ''),
+  ('المرتشون', 'those who take bribes', ''),
+  ('المغرضون', 'those with ulterior motives', ''),
+  ('تضافرت', 'combined, joined forces', ''),
+  ('تآمر', 'conspired', ''),
+  ('الخونة', 'traitors', ''),
+  ('تطهير', 'purging, cleansing', ''),
+  ('اعتقالهم', 'their detention', ''),
+  ('مجردا', 'stripped of, free from', ''),
+  ('التخريب', 'sabotage', ''),
+  ('العنف', 'violence', ''),
+  ('مسئولا', 'responsible', ''),
+ ],
+ '8.1': [
+  ('سقامي', 'my sickness, my ailment', 'Darija / poetic'),
+  ('حاير', 'bewildered, at a loss', 'Darija'),
+  ('الغزال', 'the gazelle', ''),
+  ('امولاتي', 'my lady', 'Darija'),
+  ('عنوة', 'by force', ''),
+  ('مهجتي', 'my heart, my very soul', ''),
+  ('حسامو', 'his sword', 'Darija pronoun -u'),
+  ('سهامو', 'his arrows', 'Darija pronoun -u'),
+  ('جراح', 'wounds', ''),
+  ('الباهية', 'the radiant, splendid one (f.)', ''),
+  ('الرقيب', 'the watcher, the guard', ''),
+  ('الحسود', 'the envious one', ''),
+  ('خيام', 'tents', ''),
+ ],
+}
+
+# expression cards for the sayings in the Unit-1 text (blocks of the Word file); glosses are approximate and written for this book
+SAYINGS = {
+ 827: ('مثل / جملة تتابع (عامية مصرية)', 'A rhyming phrase (Egyptian colloquial)', 'Roughly: "Five, a little five (khamsa), today, today is Thursday" — a rhyme; khamsa ("five") also names a protective hand charm. Approximate.'),
+ 829: ('دعاء / عبارة (دارجة مغربية)', 'A set phrase (Moroccan Darija)', 'Roughly: "May God make it easy / put it at one\'s service." Approximate: check with a Darija speaker.'),
+ 830: ('مثل / نصيحة (دارجة مغربية)', 'A saying (Moroccan Darija)', 'Roughly: "Give yourself your worth among people, and do not cheapen yourself, so that what is cheap does not become dear to you." Approximate.'),
+}

@@ -1,0 +1,215 @@
+{
+ "date": "2026-10-12",
+ "results": [
+  [
+   "cover renders",
+   true,
+   ""
+  ],
+  [
+   "routes in data = pages built",
+   true,
+   "41"
+  ],
+  [
+   "no horizontal overflow (desktop 1280 + phone 390, all 41 pages)",
+   true,
+   "[]"
+  ],
+  [
+   "all in-page links resolve to a page",
+   true,
+   "[]"
+  ],
+  [
+   "all \"jump to source\" buttons point at an existing element",
+   true,
+   "[]"
+  ],
+  [
+   "no broken images on any page",
+   true,
+   "[]"
+  ],
+  [
+   "self-hosted fonts load (title, Amiri, Plex Arabic, Noto Serif)",
+   true,
+   "{'TS Hiba': True, 'Amiri': True, 'IBM Plex Sans Arabic': True, 'Noto Serif': True, 'loaded': ['Amiri 400', 'Amiri 700', 'Amiri 400', 'Amiri 700', 'IBM Plex Sans Arabic 400', 'IBM Plex Sans Arabic 600', 'IBM Plex Sans Arabic 400', 'IBM Plex Sans Arabic 600', 'Noto Serif 400', 'Noto Serif 700', 'Noto Serif 400', 'Noto Serif 700', 'Noto Serif 400', 'TS Hiba 700']}"
+  ],
+  [
+   "listening titles dark blue (title + exercise headings)",
+   true,
+   "('rgb(18, 48, 107)', 'rgb(18, 48, 107)')"
+  ],
+  [
+   "reading/recitation titles dark red (title + exercise headings)",
+   true,
+   "('rgb(138, 28, 28)', 'rgb(138, 28, 28)')"
+  ],
+  [
+   "flip card flips",
+   true,
+   ""
+  ],
+  [
+   "star marks card learned",
+   true,
+   ""
+  ],
+  [
+   "progress label updates after finishing an item",
+   true,
+   "1 / 17"
+  ],
+  [
+   "answer persists after reload",
+   true,
+   ""
+  ],
+  [
+   "completion persists after reload",
+   true,
+   ""
+  ],
+  [
+   "star persists after reload",
+   true,
+   ""
+  ],
+  [
+   "download of answers works and contains the answer + question text",
+   true,
+   "﻿صوتي عربي — إجاباتي · My answers\nSaved 2026-10-12T08:27:45.010Z\n\n[sa.ans.1.1.1]\nQ: شاهدوا فيديو المخرج: ما الذي تلاحظونه في وضع اللسان والشفتين عند نطق /ص/؟ صفوه بكلماتكم قبل أن تقرأوا الوصف المكتوب."
+  ],
+  [
+   "drawer opens",
+   true,
+   ""
+  ],
+  [
+   "Esc closes the drawer",
+   true,
+   ""
+  ],
+  [
+   "text-size button enlarges text",
+   true,
+   "('18px', '19.6px')"
+  ],
+  [
+   "reading mode toggles",
+   true,
+   ""
+  ],
+  [
+   "theme toggle changes the background",
+   true,
+   "('rgb(251, 248, 241)', 'rgb(20, 19, 15)')"
+  ],
+  [
+   "jump button scrolls to and highlights its target",
+   true,
+   "b1095-p1"
+  ],
+  [
+   "paragraph navigator shown on the statement page",
+   true,
+   ""
+  ],
+  [
+   "paragraph navigator advances",
+   true,
+   "2 / 5"
+  ],
+  [
+   "no iframe before pressing load (nothing leaves the browser)",
+   true,
+   ""
+  ],
+  [
+   "load button creates a youtube-nocookie iframe",
+   true,
+   "https://www.youtube-nocookie.com/embed/L8TOCOHUh0c?autoplay=1&rel=0&modestbranding=1&origin=http%3A%2F%2F127.0.0.1%3A50739"
+  ],
+  [
+   "glossary popover appears on hover",
+   true,
+   "blindness"
+  ],
+  [
+   "target-sound highlighter marks letters and clears them",
+   true,
+   "173"
+  ],
+  [
+   "source-error flag shows note and proposed fix",
+   true,
+   "⚑ Source issue: Stray double quotation marks.\nProposed fix: not spread"
+  ],
+  [
+   "cloze gives feedback with source line",
+   true,
+   ""
+  ],
+  [
+   "self-assessment choice persists",
+   true,
+   ""
+  ],
+  [
+   "map summary counts rated rows",
+   true,
+   "قيّمتم 1 من 5 You have rated 1 of 5"
+  ],
+  [
+   "vocabulary filter narrows the list",
+   true,
+   "(3, 490)"
+  ],
+  [
+   "site search returns results",
+   true,
+   ""
+  ],
+  [
+   "Bilal video has seek buttons for the two stated times",
+   true,
+   "['⏱ 0:00', '⏱ 2:00']"
+  ],
+  [
+   "seek button jumps video to 2:00",
+   null,
+   "Chromium build in this sandbox cannot decode H.264/AAC: ['', '', 'probably']"
+  ],
+  [
+   "speed button sets playbackRate 0.75",
+   true,
+   "0.75"
+  ],
+  [
+   "print stylesheet produces a PDF",
+   true,
+   "222770"
+  ],
+  [
+   "no console errors / page errors during the whole run (http)",
+   true,
+   "[]"
+  ],
+  [
+   "no failed or 4xx/5xx requests (http; aborted media preloads on navigation ignored)",
+   true,
+   "[]"
+  ],
+  [
+   "opens from file:// and renders an item page",
+   true,
+   "صوت الصاد /ص/"
+  ],
+  [
+   "file:// run: no script errors (localStorage may be restricted; guarded)",
+   true,
+   "[]"
+  ]
+ ]
+}

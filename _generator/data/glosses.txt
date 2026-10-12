@@ -1,0 +1,454 @@
+# EDUCATIONAL ADDITION — English glosses written for this book (not part of the course materials).
+# Format:  Arabic word | English gloss.   Words are matched ignoring vowel marks; undiacritised Arabic can have other readings,
+# so each gloss gives the reading that fits the course context (minimal pairs, sound contexts, verb tables).
+ساد|prevailed, ruled
+صاد|the letter ṣād; also "he hunted"
+سار|walked, set off
+صار|became
+سور|walls; also sūras (chapters of the Qurʾān)
+صور|pictures, images
+سين|the letter sīn
+صين|China (here without the article)
+صام|fasted
+صيد|hunting; game
+صوت|voice, sound
+أصدقاء|friends
+أصوات|voices, sounds
+أصداف|seashells
+أصحاب|companions; owners
+أصبح|became; woke up to the morning
+اصطياد|catching, hunting
+اصطحاب|taking along, accompanying
+إصلاح|repair; reform
+قصة|story
+فرصة|opportunity, chance
+قصر|palace; shortening
+نصر|victory
+مصر|Egypt
+عصر|era, age; late afternoon
+مصدر|source; verbal noun (maṣdar)
+استطاع|was able to
+اصطلاح|technical term, convention
+مسطرة|ruler (for drawing lines)
+سائق|driver
+صديق|friend
+صادق|truthful, honest
+استصلاح|reclaiming (e.g. land)
+دل|pointed to, indicated
+ضل|went astray
+وديع|gentle, meek
+وضيع|lowly, base
+فادى|ransomed; also a name (Fādī)
+فاضى|free, empty
+داني|near, close
+ضاني|mutton, of sheep
+ضاد|the letter ḍād
+ضار|harmful
+ضمير|conscience; pronoun
+ضرائب|taxes
+أضرار|damages
+أضرب|went on strike
+أضعف|weaker; weakened
+أضحك|made (someone) laugh
+إضراب|strike (industrial action)
+اضرب|hit! (imperative)
+اضحك|laugh! (imperative)
+فضة|silver
+عرض|offer, show; width
+قرض|loan
+فرض|obligation; imposition
+إضافة|addition
+إضاعة|wasting, loss
+ضد|against
+ضم|annexed, joined; embraced
+مضغة|a morsel, a mouthful
+مضرب|racket, bat
+ضواحي|suburbs
+تضارب|clash, conflict
+تضليل|misleading, deceiving
+تاب|repented
+طاب|was good, was pleasant
+تل|hill, mound
+طل|dew; light rain
+تبع|followed
+طبع|print; nature, temperament
+تين|figs
+طين|mud, clay
+طابع|stamp; character
+طار|flew
+طيارة|aeroplane
+أطلق|released; fired
+أطعم|fed
+أطول|longer, tallest
+اطمأن|felt reassured
+إطلاق|release; firing
+إطفاء|extinguishing
+شطة|chili pepper
+قطة|cat
+قطع|cut
+سطح|roof; surface
+طالع|rising; going up
+اضطهاد|persecution
+اضطراب|disturbance, disorder
+طلاق|divorce
+تعطل|broke down, stopped working
+بطالة|unemployment
+ساطع|bright, brilliant
+زن|buzzed, hummed
+ظن|thought, supposed
+زفر|let out a sigh
+ظفر|succeeded, won; also fingernail
+الزاهر|the radiant, blooming
+الظاهر|the apparent; the outer side
+زهر|flowers, blossoms; also dice (with sukūn)
+ظهر|back; noon; appeared
+ذل|humiliation
+ظل|shade; remained
+ذليل|humiliated, abased
+ظليل|shady
+ذابت|melted (she)
+ظابط|officer
+ظلم|injustice; wronged
+ظالم|unjust; oppressor
+ظاهرة|phenomenon
+أظهر|showed
+أظلم|became dark
+أظبط|I fix, I adjust
+إظهار|showing, revealing
+إظلال|shading, overshadowing
+إظلام|darkening
+عظة|sermon, admonition
+مكتظة|crowded (feminine)
+مظلوم|wronged
+باهظ|exorbitant, very costly
+عظيم|great, magnificent
+مظهر|appearance
+مقزز|disgusting
+متحفظ|reserved, cautious
+صرف|spent; dismissed
+وصل|arrived
+قصر|shortened
+ضرب|hit
+طلب|asked for, requested
+طرد|expelled
+ظبط|fixed, adjusted
+عطل|put out of order
+قطع|cut
+طالب|demanded
+تطور|developed
+تطلب|required
+تبطر|became ungrateful, arrogant
+تطاول|overstepped; reached out insolently
+استطرد|digressed
+استطول|found (something) too long
+قال|said
+كال|measured out (grain)
+قاد|led
+كاد|almost
+قافية|rhyme
+كافية|sufficient
+مقدس|sacred
+مكدس|piled up
+يقيس|measures
+كيس|bag
+قسا|became hard
+كسا|clothed
+قد|already; may
+كد|toil, drudgery
+قائد|leader
+قائل|speaker, one who says
+سبق|preceded
+قاضي|judge
+أقسم|swore
+أقدم|dared; older
+أقلام|pens
+أقدام|feet
+اقتحام|storming, forcing entry
+اقتراب|approach
+إقبال|turning towards; demand
+ثقة|trust
+إعاقة|disability; obstruction
+حقيقة|truth, fact
+حقيقي|real, true
+حق|right; truth
+استحق|deserved
+قلم|pen
+قام|stood up
+قصير|short
+قصد|intended
+إقامة|stay, residence
+أقال|dismissed (from a post)
+قرر|decided
+قارن|compared
+هرم|pyramid; old age
+حرم|deprived; sanctuary
+هزم|defeated
+حزم|firmness; bundling
+هازم|one who defeats
+حازم|firm, decisive
+هوى|fell; also love, desire
+حوى|contained
+مهموم|worried, anxious
+محموم|feverish
+مهجر|land of emigration
+محجر|quarantine; enclosure
+هرس|crushed, mashed
+حرس|guards
+بله|naivety, simpleness
+بلح|dates (unripe or fresh)
+حر|hot; free
+حار|hot
+حيرة|bewilderment
+حور|dark-eyed maidens; poplar trees
+أحرار|free people
+حل|solution; untied
+حال|state, condition
+حيلة|trick, ruse
+حول|around; year
+إحلال|replacement
+أحال|referred, transferred
+حكم|ruling, judgement
+حاكم|ruler
+أحكام|rulings, judgements
+أحكم|tightened; perfected
+إحكام|tightening, firm control
+لمح|glimpsed
+لمحة|glimpse
+صحيح|correct, sound
+صح|correct
+صحيحة|correct (feminine)
+صحة|health
+حد|edge, limit
+حاد|sharp
+حدود|borders, limits
+أحد|someone; one
+آحاد|units, ones
+حقوق|rights
+أحق|more deserving
+حجز|booked, reserved
+حصل|happened; obtained
+صحح|corrected
+سامح|forgave
+حاول|tried
+تسحر|ate the pre-dawn meal
+تحاور|held a dialogue
+تحايل|played a trick
+تحاكم|went to court
+انتحر|committed suicide
+احتفل|celebrated
+احترم|respected
+احتار|was perplexed
+احتل|occupied
+استحضر|summoned, evoked
+عمل|work; did
+أمل|hope
+علم|knowledge; flag
+ألم|pain
+عرق|sweat
+أرق|insomnia
+وعد|promised
+وأد|buried alive
+قرع|knocked
+قرأ|read
+باع|sold
+باء|the letter bāʾ
+جاع|was hungry
+جاء|came
+عد|count!
+عاد|returned
+عيد|festival
+عود|oud (lute); stick
+إعداد|preparation
+اعد|prepare!
+إعادة|repeating, returning
+أعود|I return
+عرف|knew
+عارف|knowing
+اعرف|I know
+اعترف|confessed
+اعتراف|confession
+عامل|worker; treated
+اعمل|I do
+اعمال|deeds, works
+جمع|gathered; plural
+جامع|mosque; comprehensive
+جمعة|Friday; gathering
+جامعة|university
+سمع|heard
+سامع|listener
+سمعة|reputation
+سامعة|hearing (feminine)
+عقد|contract; necklace; tied
+عاقد|contracting
+اعقد|I tie, I conclude
+اعقاد|(as written in the table; see note)
+بائع|seller
+بيعة|a sale; pledge of allegiance
+غضب|got angry
+أرسل|sent
+جلس|sat
+عاش|lived
+زعل|got upset
+بعت|I sold
+قعد|sat
+عاكس|harassed; went against
+عاتب|reproached
+تمعن|scrutinised
+توعد|threatened
+تعامل|dealt with
+انعكس|was reflected
+اعتبر|considered
+استعمل|used
+غاب|was absent
+غائب|absent
+غالى|dear; expensive (غالي)
+غنائم|spoils
+غنيمة|booty, a gain
+أغمد|sheathed
+أغدق|gave generously, showered
+إغلاق|closing
+إغماد|sheathing
+لغة|language
+لدغة|sting, bite
+مبالغ|exaggerated
+بالغ|exaggerated; adult
+يبغض|hates
+غرف|scooped
+غطس|dived
+غفر|forgave
+غدر|betrayed
+غسل|washed
+غامر|ventured, took a risk
+تغير|changed
+اغتر|was deluded; became proud
+استغفر|asked forgiveness
+استغفل|took by surprise, fooled
+استغرب|found strange
+خلا|was empty of
+غلا|became expensive
+خالى|empty; my maternal uncle (خالي)
+خاب|failed
+خير|good, goodness
+غير|other, different
+خيام|tents
+غيام|(as written; a form of "clouds / cloudiness")
+خوى|was hollow, empty
+غوى|went astray
+خائب|disappointed
+غاص|dived
+خاص|private, special
+خيال|imagination
+خائن|traitor
+خان|betrayed
+خسائر|losses
+أخلاق|morals, ethics
+أخرق|clumsy
+اختيار|choice
+اختلال|imbalance
+اختبار|test
+اختلاف|difference
+اختراق|penetration, breach
+صخر|rock
+نخل|palm trees
+مختوم|sealed
+خبز|baked
+خطر|crossed (one's mind); danger
+بخر|vaporised, fumigated
+خاطر|risked
+تبخر|evaporated
+اختبر|tested
+استخسر|begrudged
+صلصال|clay
+أطلال|ruins
+علبة|box, tin
+ظلام|darkness
+ضلمة|darkness (the course itself marks this word "عامية")
+بالونة|balloon
+سال|flowed
+صال|charged, attacked
+لا|no; not
+لام|the letter lām; blamed
+لكن|but
+لعل|perhaps
+إلا|except
+إلى|to, towards
+كل|every; all
+قبل|before
+التحاق|enrolment, joining
+التزام|commitment
+التماس|plea, request
+لو|if
+لون|colour
+لوم|blame
+القمر|the moon
+الولد|the boy
+في الجامعة|at the university
+من المغرب|from Morocco
+عند العرب|among the Arabs
+الشمس|the sun
+السراب|the mirage
+في الصف|in the class
+من السعودية|from Saudi Arabia
+أكل|ate
+قلب|heart; turned over
+قلّب|turned (something) over
+تكلم|spoke
+حرم|sanctuary (as in the r/l pair); deprived
+حلم|dream
+حرك|moved (something)
+حلق|throat; shaved
+نحر|throat; slaughtered
+نحل|bees
+حريم|women of the household
+حليم|forbearing, mild
+خيل|horses
+رائع|wonderful
+رسول|messenger
+رحيم|merciful
+رافض|refusing
+رجل|man; leg
+إكرام|honouring, generosity
+قرار|decision
+أرفع|I raise; the highest
+أرحم|more merciful
+ارتقى|rose, ascended
+ارتقاء|ascent, advancement
+غرة|forehead blaze; the first day of the month
+ثورة|revolution
+كورة|ball
+خيار|cucumber; choice
+قرآن|the Qurʾān
+عراق|Iraq
+ربيع|spring
+رؤوف|compassionate
+برنامج|programme
+استرجاع|retrieval
+رجوع|return
+يناير|January
+مارس|March
+أبريل|April
+مرر|passed (something) on
+برر|justified
+راقب|watched, monitored
+راجع|reviewed
+تدرب|trained
+تكسر|broke (intransitive)
+ارتبط|was connected, committed
+استقر|settled
+غادر|left, departed
+غروب|sunset
+يرغب|wants, desires
+يغرد|sings (of birds)
+أرغم|forced
+خراب|ruin
+خروب|carob
+خريف|autumn
+عريس|bridegroom
+راعي|shepherd
+أصر|insisted
+قرب|brought near
+درب|trained, coached
+اقر|(as written; probably "read!" — the hamza is missing)
+اقل|(as written; probably "reduce!" or "less")
+احل|(as written; probably أحال "referred")
+رجار|(as written; unclear — see the flagged note)
